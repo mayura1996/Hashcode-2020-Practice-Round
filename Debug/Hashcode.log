@@ -1,0 +1,8 @@
+﻿  Hashcode.cpp
+C:\Users\ASUS\source\repos\Hashcode\Hashcode\Hashcode.cpp(54,26): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Hashcode\Hashcode\Hashcode.cpp(60,21): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Hashcode\Hashcode\Hashcode.cpp(64,19): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Hashcode\Hashcode\Hashcode.cpp(80,19): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Hashcode\Hashcode\Hashcode.cpp(49,19): warning C4101: 'tmpA': unreferenced local variable
+C:\Users\ASUS\source\repos\Hashcode\Hashcode\Hashcode.cpp(15,22): warning C4101: 'n': unreferenced local variable
+  Hashcode.vcxproj -> C:\Users\ASUS\source\repos\Hashcode\Debug\Hashcode.exe
